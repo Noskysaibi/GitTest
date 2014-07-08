@@ -1,0 +1,59 @@
+﻿邮箱分类           ok
+填写任务报告       ok
+企业库
+回张军峰           ok
+jsDatamodel不要放一起   以免加载慢               ok
+架商计系统                                       ok
+
+
+security
+csrf 攻击             ok
+单点登录	      ok 连接登入没有
+EF 并发               ok improving
+重新安装svn           ok
+异常的用户体验性
+文档
+接口登入判断                                 ok
+缓存代理接口配置麻烦，反射的缓存
+同步建表文档，同步框架设计文档
+区分显示异常和运行异常                       ok（improving）
+登入异常，要红色警告
+全局缓存 还是用户级缓存
+web兼容问题                                  ok(ashley doing)
+异常码，在客户端可以控制显示                 ok
+文件保存功能
+find 和 first 区别
+通知中心
+定时触发 
+系统表
+配置文件的统一读取
+删除User表的
+多个web服务集群
+web超时没有跳转到登录页面
+表的唯一键
+
+字典表（城市 省份 简单分类）
+本公司员工表
+规则库表
+完善 BaseReqParam 验证
+
+写一个entity接口，记录修改用户名和创建用户名
+port dll引用问题
+
+combo 数据banding
+
+ext include 缓存问题                                ok
+
+分布式事务                                          ok
+
+美化ext二级业务树
+
+提取模型时
+
+上传安全问题        曹
+
+loading 太丑        张
+
+弹框按钮怎么没了    曹
+
+同步数据库访问层bug到标准化
