@@ -9,7 +9,6 @@ jsDatamodel不要放一起   以免加载慢               ok
 security
 csrf 攻击             ok
 单点登录	      ok 连接登入没有
-EF 并发               ok improving
 EF 并发               ok improving斯蒂芬说大法师打发斯蒂芬
 重新安装svn           ok
 异常的用户体验性
